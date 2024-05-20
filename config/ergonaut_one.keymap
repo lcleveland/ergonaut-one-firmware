@@ -27,8 +27,8 @@
         default_layer {
             bindings = <
 &mt LGUI RBKT    &mt LS(Q) Q  &mt LS(W) W  &mt LS(F) F  &mt LS(P) P      &mt LS(B) B  &kp Y        &kp U           &kp I        &kp O    &kp P     &kp LBKT
-&mt LCTRL GRAVE  &kp A        &kp S        &kp D        &kp F            &kp G        &kp H        &kp J           &kp K        &kp L    &kp SEMI  &mt RCTRL SQT
-&mt LALT MINUS   &kp Z        &kp X        &kp C        &kp V            &kp B        &kp N        &kp M           &kp COMMA    &kp DOT  &kp FSLH  &mt RALT BSLH
+&mt LCTRL GRAVE  &mt LS(A) A  &mt LS(R) R  &mt LS(S) S  &mt LS(T) T      &mt LS(G) G  &kp H        &kp J           &kp K        &kp L    &kp SEMI  &mt RCTRL SQT
+&mt LALT MINUS   &mt LS(Z) Z  &mt LS(X) X  &mt LS(C) C  &mt LS(D) D      &mt LS(V) V  &kp N        &kp M           &kp COMMA    &kp DOT  &kp FSLH  &mt RALT BSLH
                                            &lt RSE TAB  &mt LSHFT SPACE  &lt LWR RET  &lt LWR ESC  &mt RSHFT BSPC  &lt RSE DEL
             >;
         };
