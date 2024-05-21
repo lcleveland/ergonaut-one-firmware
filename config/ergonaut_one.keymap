@@ -26,8 +26,8 @@
 
         default_layer {
             bindings = <
-&mt LGUI RBKT    &mt LS(Q) Q  &mt LS(W) W  &mt LS(F) F  &mt LS(P) P      &mt LS(B) B  &mt LS(J) J  &mt LS(L) L     &mt LS(U) U          &mt LS(Y) Y              &mt COLON SEMICOLON  &kp LBKT
-&mt LCTRL GRAVE  &mt LS(A) A  &mt LS(R) R  &mt LS(S) S  &mt LS(T) T      &mt LS(G) G  &mt LS(M) M  &mt LS(N) N     &mt LS(E) E          &mt LS(I) I              &mt LS(O) O          &mt RCTRL SQT
+&mt LS(TAB) TAB  &mt LS(Q) Q  &mt LS(W) W  &mt LS(F) F  &mt LS(P) P      &mt LS(B) B  &mt LS(J) J  &mt LS(L) L     &mt LS(U) U          &mt LS(Y) Y              &mt COLON SEMICOLON  &mt PIPE BACKSLASH
+&mt LCTRL GRAVE  &mt LS(A) A  &mt LS(R) R  &mt LS(S) S  &mt LS(T) T      &mt LS(G) G  &mt LS(M) M  &mt LS(N) N     &mt LS(E) E          &mt LS(I) I              &mt LS(O) O          &mt DOUBLE_QUOTES SQT
 &mt LALT MINUS   &mt LS(Z) Z  &mt LS(X) X  &mt LS(C) C  &mt LS(D) D      &mt LS(V) V  &mt LS(K) K  &mt LS(H) H     &mt LESS_THAN COMMA  &mt GREATER_THAN PERIOD  &mt QUESTION SLASH   &mt RALT BSLH
                                            &lt RSE TAB  &mt LSHFT SPACE  &lt LWR RET  &lt LWR ESC  &mt RSHFT BSPC  &lt RSE DEL
             >;

@@ -1,40 +1,40 @@
 layers:
   default:
-  - {t: ']', h: Gui}
-  - Q
-  - W
-  - E
-  - R
-  - T
-  - Y
-  - U
-  - I
-  - O
-  - P
-  - '['
+  - {t: ↹, h: Win Prev}
+  - {t: Q, h: Sft+ Q}
+  - {t: W, h: Sft+ W}
+  - {t: F, h: Sft+ F}
+  - {t: P, h: Sft+ P}
+  - {t: B, h: Sft+ B}
+  - {t: J, h: Sft+ J}
+  - {t: L, h: Sft+ L}
+  - {t: U, h: Sft+ U}
+  - {t: Y, h: Sft+ Y}
+  - {t: ;, h: ':'}
+  - {t: \, h: '|'}
   - {t: '`', h: Ctrl}
-  - A
-  - S
-  - D
-  - F
-  - G
-  - H
-  - J
-  - K
-  - L
-  - ;
-  - {t: '''', h: Ctrl}
+  - {t: A, h: Sft+ A}
+  - {t: R, h: Sft+ R}
+  - {t: S, h: Sft+ S}
+  - {t: T, h: Sft+ T}
+  - {t: G, h: Sft+ G}
+  - {t: M, h: Sft+ M}
+  - {t: N, h: Sft+ N}
+  - {t: E, h: Sft+ E}
+  - {t: I, h: Sft+ I}
+  - {t: O, h: Sft+ O}
+  - {t: '''', h: '"'}
   - {t: '-', h: Alt}
-  - Z
-  - X
-  - C
-  - V
-  - B
-  - N
-  - M
-  - ','
-  - .
-  - /
+  - {t: Z, h: Sft+ Z}
+  - {t: X, h: Sft+ X}
+  - {t: C, h: Sft+ C}
+  - {t: D, h: Sft+ D}
+  - {t: V, h: Sft+ V}
+  - {t: K, h: Sft+ K}
+  - {t: H, h: Sft+ H}
+  - {t: ',', h: <}
+  - {t: ., h: '>'}
+  - {t: /, h: '?'}
   - {t: \, h: Alt}
   - {t: ↹, h: raise}
   - {t: ␣, h: Shift}
