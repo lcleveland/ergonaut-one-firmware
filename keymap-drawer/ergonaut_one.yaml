@@ -39,7 +39,7 @@ layers:
   - {t: ↹, h: raise}
   - {t: ␣, h: Shift}
   - {t: ⏎, h: lower}
-  - {t: Esc, h: lower}
+  - {t: ␣, h: lower}
   - {t: ⌫, h: Shift}
   - {t: ⌦, h: raise}
   lower:
