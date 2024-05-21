@@ -12,7 +12,7 @@ layers:
   - {t: Y, h: Sft+ Y}
   - {t: ;, h: ':'}
   - {t: \, h: '|'}
-  - {t: '`', h: Ctrl}
+  - {t: BACKSPACE, h: Sft+ BACKSPACE}
   - {t: A, h: Sft+ A}
   - {t: R, h: Sft+ R}
   - {t: S, h: Sft+ S}
@@ -38,8 +38,8 @@ layers:
   - {t: \, h: Alt}
   - {t: ↹, h: raise}
   - {t: ␣, h: Shift}
-  - {t: ⏎, h: lower}
   - {t: ␣, h: lower}
+  - {t: ENTER, h: lower}
   - {t: ⌫, h: Shift}
   - {t: ⌦, h: raise}
   lower:
